@@ -29,6 +29,16 @@ A collection for public api.
 |百度地图| 百度地图 | YES | [GO](http://lbsyun.baidu.com/index.php?title=jspopular) | - |
 |高德地图| 高德地图 | YES | [GO](http://lbs.amap.com/api/javascript-api/summary/) |-|
 
+### 物流信息
+
+物流信息可以用[快递鸟](http://www.kdniao.com/api-track)这家公司提供的服务，需要注册来获取用户`id`和`Key`,提供了
+- [即时查询API](http://www.kdniao.com/api-track)
+- [物流跟踪API](http://www.kdniao.com/api-follow)
+- [预约取件API](http://www.kdniao.com/api-order)
+- [电子面单API](http://www.kdniao.com/api-eorder)
+- [单号识别API](http://www.kdniao.com/api-recognise)
+- [在途监控API](http://www.kdniao.com/api-monitor)
+
 ## 贡献
 - Fork 这个代码到自己的github账户下
 - 修改之后，提交Pull Request
